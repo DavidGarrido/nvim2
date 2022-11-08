@@ -56,7 +56,8 @@ Plug 'prettier/vim-prettier', { 'do': 'yarn install' }
 Plug 'honza/vim-snippets'
 Plug 'sirver/ultisnips'
 Plug 'jiangmiao/auto-pairs'
-Plug 'mattn/emmet-vim'
+"Plug 'mattn/emmet-vim'
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
+
 
 call plug#end()
